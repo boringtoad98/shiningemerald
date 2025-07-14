@@ -1,10 +1,10 @@
 # Pokémon Emerald
 
-This is a decompilation of Pokémon Emerald.
+This is a decompilation of Pokémon Emerald with an enhanced (~1%) shiny rate.
 
 It builds the following ROM:
 
-* [**pokeemerald.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1961) `sha1: f3ae088181bf583e55daf962a92bb46f4f1d07b7`
+* **shiningemerald.gba** `sha1: f9d2d9d5dee7e59f7561c305303b8efe1f0b95fa`
 
 To set up the repository, see [INSTALL.md](INSTALL.md).
 
